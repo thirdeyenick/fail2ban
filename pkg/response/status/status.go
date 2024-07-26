@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tomMoulard/fail2ban/pkg/data"
-	"github.com/tomMoulard/fail2ban/pkg/fail2ban"
-	logger "github.com/tomMoulard/fail2ban/pkg/log"
+	"github.com/thirdeyenick/fail2ban/pkg/data"
+	"github.com/thirdeyenick/fail2ban/pkg/fail2ban"
+	logger "github.com/thirdeyenick/fail2ban/pkg/log"
 )
 
 // l debug logger. noop by default.

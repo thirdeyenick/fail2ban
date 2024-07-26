@@ -5,9 +5,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/tomMoulard/fail2ban/pkg/chain"
-	"github.com/tomMoulard/fail2ban/pkg/data"
-	"github.com/tomMoulard/fail2ban/pkg/fail2ban"
+	"github.com/thirdeyenick/fail2ban/pkg/chain"
+	"github.com/thirdeyenick/fail2ban/pkg/data"
+	"github.com/thirdeyenick/fail2ban/pkg/fail2ban"
 )
 
 type handler struct {

@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/tomMoulard/fail2ban/pkg/ipchecking"
-	logger "github.com/tomMoulard/fail2ban/pkg/log"
-	"github.com/tomMoulard/fail2ban/pkg/rules"
-	utime "github.com/tomMoulard/fail2ban/pkg/utils/time"
+	"github.com/thirdeyenick/fail2ban/pkg/ipchecking"
+	logger "github.com/thirdeyenick/fail2ban/pkg/log"
+	"github.com/thirdeyenick/fail2ban/pkg/rules"
+	utime "github.com/thirdeyenick/fail2ban/pkg/utils/time"
 )
 
 // l debug logger. noop by default.

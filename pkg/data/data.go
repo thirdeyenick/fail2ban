@@ -7,7 +7,7 @@ import (
 	"net"
 	"net/http"
 
-	logger "github.com/tomMoulard/fail2ban/pkg/log"
+	logger "github.com/thirdeyenick/fail2ban/pkg/log"
 )
 
 // l debug logger. noop by default.

@@ -11,7 +11,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/tomMoulard/fail2ban/pkg/rules"
+	"github.com/thirdeyenick/fail2ban/pkg/rules"
 	"golang.org/x/net/websocket"
 )
 

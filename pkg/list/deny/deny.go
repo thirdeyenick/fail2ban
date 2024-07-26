@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/tomMoulard/fail2ban/pkg/chain"
-	"github.com/tomMoulard/fail2ban/pkg/data"
-	"github.com/tomMoulard/fail2ban/pkg/ipchecking"
-	logger "github.com/tomMoulard/fail2ban/pkg/log"
+	"github.com/thirdeyenick/fail2ban/pkg/chain"
+	"github.com/thirdeyenick/fail2ban/pkg/data"
+	"github.com/thirdeyenick/fail2ban/pkg/ipchecking"
+	logger "github.com/thirdeyenick/fail2ban/pkg/log"
 )
 
 // l debug logger. noop by default.

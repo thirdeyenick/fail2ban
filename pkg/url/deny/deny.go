@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/tomMoulard/fail2ban/pkg/chain"
-	"github.com/tomMoulard/fail2ban/pkg/data"
-	"github.com/tomMoulard/fail2ban/pkg/fail2ban"
-	"github.com/tomMoulard/fail2ban/pkg/ipchecking"
-	logger "github.com/tomMoulard/fail2ban/pkg/log"
-	"github.com/tomMoulard/fail2ban/pkg/utils/time"
+	"github.com/thirdeyenick/fail2ban/pkg/chain"
+	"github.com/thirdeyenick/fail2ban/pkg/data"
+	"github.com/thirdeyenick/fail2ban/pkg/fail2ban"
+	"github.com/thirdeyenick/fail2ban/pkg/ipchecking"
+	logger "github.com/thirdeyenick/fail2ban/pkg/log"
+	"github.com/thirdeyenick/fail2ban/pkg/utils/time"
 )
 
 // l debug logger. noop by default.

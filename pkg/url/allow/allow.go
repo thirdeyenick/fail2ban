@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/tomMoulard/fail2ban/pkg/chain"
-	logger "github.com/tomMoulard/fail2ban/pkg/log"
+	"github.com/thirdeyenick/fail2ban/pkg/chain"
+	logger "github.com/thirdeyenick/fail2ban/pkg/log"
 )
 
 // l debug logger. noop by default.
